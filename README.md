@@ -19,7 +19,8 @@ The projects are structured chronologically, starting from basic syntax and memo
 | **`cpp06`** | **Casts & Type Conversion** | Exploration of explicit type conversion: `static_cast`, `dynamic_cast`, `const_cast`, and `reinterpret_cast`. | *Serialization of data, simple `cast` utility* |
 | **`cpp07`** | **Templates & Generic Programming** | Introduction to templates for writing generic, type-agnostic functions and classes. Implementing custom container-like structures. | *Array template, template function examples* |
 | **`cpp08`** | **STL & Containers** | Mastering the C++ Standard Template Library (**STL**). Extensive use of containers (`vector`, `map`, `list`), iterators, and algorithms. | *Custom function templates on STL containers* |
-| **`cpp09`** | **(Optional) Advanced STL/System** | (If completed) Focus on complex algorithms, advanced containers, and system-level programming, often involving parsing or networking logic. | *RPN calculator, container manipulation* |
+| **`cpp09`** | **Advanced STL/System** | Focus on complex algorithms, advanced containers, and system-level programming, often involving parsing or networking logic. | *RPN calculator, container manipulation* |
+
 # 🛠️ Building the Projects
 
 Each module (cpp00, cpp01, etc.) is a separate project directory and contains its own Makefile.
